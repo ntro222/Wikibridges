@@ -2,12 +2,13 @@
   <h1 style="font-size: 300px;">Wikibridges</h1>
   <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/icon.png" alt="Alt Text" width="300" height="300">
   <i>A proxy that allows unsupported devices to use Wikipedia.</i>
-
-  <h2>How to use Wikibridges</h2>
-  <p>If you would like to use Wikibridges, you have 2 options.</p>
-  <br>
-  <h2>Using a Pre-made Proxy (RECOMMENDED)</h2>
-  An updated list of Wikibridges proxies can be found <a href="https://github.com/ntro222/Wikibridges/blob/main/proxylist.md">Here.</a>
-
-  <h2>Self-Hosting Wikibridges</h2>
 </div>
+
+
+<h2>How to use Wikibridges</h2>
+<p>If you would like to use Wikibridges, you have 2 options.</p>
+<br>
+<h2>Using a Pre-made Proxy (RECOMMENDED)</h2>
+An updated list of Wikibridges proxies can be found <a href="https://github.com/ntro222/Wikibridges/blob/main/proxylist.md">Here.</a>
+
+<h2>Self-Hosting Wikibridges</h2>
