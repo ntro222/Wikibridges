@@ -18,7 +18,7 @@ If you would like to have your own private server of Wikibridges, or would like 
 
 <h4>Getting Started</h4>
 You will require a few things to self-host a copy of Wikibridges.
-<ul>
+<ul> <br>
   <li>A cloudflare account</li>
   <li>Some time and patience</li>
   <li>Some computer skills / knowledge</li>
