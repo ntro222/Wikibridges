@@ -22,6 +22,7 @@ You will require a few things to self-host a copy of Wikibridges.
   <li>A cloudflare account</li>
   <li>Some time and patience</li>
   <li>Some computer skills / knowledge</li>
-</ul> <br>
+</ul>
 
 <h4>Part 1. - Making a cloudflare worker</h4>
+<i>If you already know how to do this, you can skip to the next section.</i>
