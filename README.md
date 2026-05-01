@@ -1,6 +1,6 @@
 <div align=center>
   <h1 style="font-size: xxxl;">Wikibridges</h1>
-  <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/icon.png" alt="Alt Text" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/icon.png" alt="Alt Text" width="200" height="200">
   <i>A proxy that allows unsupported devices to use Wikipedia.</i>
 </div>
 
