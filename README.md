@@ -36,4 +36,4 @@ You will require a few things to self-host a copy of Wikibridges.
 
 <p>You will then see a screen that says <b>Upload & Deploy</b>. Then, click and upload the Javascript file linked below. </p>
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-04.png" height="300"> <br>
-<p align="center">Download this file as raw, then upload</p>
+<a href="https://github.com/ntro222/Wikibridges/blob/main/worker.js" align="center">Download this file as raw, then upload</a>
