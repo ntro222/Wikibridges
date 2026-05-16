@@ -1,5 +1,5 @@
 <div align=center>
-  <h1 style="font-size: xxxl;">Wikibridges</h1>
+  <h1>Wikibridges</h1>
   <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/icon.png" alt="Alt Text" width="200" height="200"> <br>
   <i>A proxy that allows unsupported devices to use Wikipedia.</i>
 </div>
@@ -32,8 +32,8 @@ You will require a few things to self-host a copy of Wikibridges.
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-02.png" height="200"> <br>
 
 <p>Once you have selected the create application button, select the <b>Upload your static files</b> option.</p>
-<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-03.png" height="400"> <br>
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-03.png" height="300"> <br>
 
 <p>You will then see a screen that says <b>Upload & Deploy</b>. Then, click and upload the Javascript file linked below. </p>
-<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-04.png" height="400"> <br>
-<h1><a href="" download="">Download the Javascript worker file</a></h1>
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-04.png" height="300"> <br>
+<h2 align="center"><a href="" download="">Download the Javascript worker file</a></h2>
