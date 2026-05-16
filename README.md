@@ -24,7 +24,10 @@ You will require a few things to self-host a copy of Wikibridges.
   <li>Some computer skills / knowledge</li>
 </ul>
 
-<h4>Part 1. - Making a cloudflare worker</h4>
+<h4>Making a cloudflare worker</h4>
 <i>If you already know how to do this, you can skip to the next section.</i>
 <p>To start, open your cloudflare dashboard and go to <b>Build → Compute → Workers & Pages</b>.</p>
-<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-01.png" height="200"> <br>
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-01.png" height="150"> <br>
+
+<p>Then, select the "<b>Create Application</b>" button.</p>
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-02.png" height="200">
