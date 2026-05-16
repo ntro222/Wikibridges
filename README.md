@@ -25,7 +25,6 @@ You will require a few things to self-host a copy of Wikibridges.
 </ul>
 
 <h4>Making a cloudflare worker</h4>
-<i>If you already know how to do this, you can skip to the next section.</i>
 <p>To start, open your cloudflare dashboard and go to <b>Build → Compute → Workers & Pages</b>.</p>
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-01.png" height="150"> <br>
 
@@ -33,4 +32,8 @@ You will require a few things to self-host a copy of Wikibridges.
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-02.png" height="200"> <br>
 
 <p>Once you have selected the create application button, select the <b>Upload your static files</b> option.</p>
-<img src="" height="400">
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-03.png" height="400"> <br>
+
+<p>You will then see a screen that says <b>Upload & Deploy</b>. Then, click and upload the Javascript file linked below. </p>
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-04.png" height="400"> <br>
+<h1><a href="" download="">Download the Javascript worker file</a></h1>
