@@ -38,5 +38,9 @@ You will require a few things to self-host a copy of Wikibridges.
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-04.png" height="300"> <br>
 
 <div align="center">
-  <a href="https://github.com/ntro222/Wikibridges/blob/main/worker.js">Download this file as raw, then upload it.</a>
+  <a href="https://github.com/ntro222/Wikibridges/blob/main/worker.js">Download this file as raw, then upload it.</a> <br> <br>
+
+  
+  <h2>And thats it, you have your very own copy of Wikibridges!</h2>
+  Enjoy!
 </div>
