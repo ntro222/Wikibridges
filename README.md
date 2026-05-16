@@ -30,4 +30,7 @@ You will require a few things to self-host a copy of Wikibridges.
 <img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-01.png" height="150"> <br>
 
 <p>Then, select the "<b>Create Application</b>" button.</p>
-<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-02.png" height="200">
+<img src="https://raw.githubusercontent.com/ntro222/Wikibridges/refs/heads/main/workers%26pages-02.png" height="200"> <br>
+
+<p>Once you have selected the create application button, select the <b>Upload your static files</b> option.</p>
+<img src="" height="400">
